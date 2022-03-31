@@ -1,3 +1,11 @@
+
+<img src="https://github.com/nishant378/corona-tracker/blob/main/1.png" 
+alt="" width="840" height="480" border="10" />
+
+<img src="https://github.com/nishant378/corona-tracker/blob/main/2.png" 
+alt="" width="840" height="480" border="10" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
